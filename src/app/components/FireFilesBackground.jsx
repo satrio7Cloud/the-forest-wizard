@@ -20,7 +20,7 @@ const FireFilesBackground = () => {
       ]);
     };
 
-    const interval = setInterval(addFireFlyPeriodically, 7000);
+    const interval = setInterval(addFireFlyPeriodically, 4000);
 
     return () => clearInterval(interval);
   }, []);
