@@ -93,31 +93,35 @@ export const BtnList = [
   { label: "Home", link: "/", icon: "home", newTab: false },
   { label: "About", link: "/about", icon: "about", newTab: false },
   { label: "Projects", link: "/projects", icon: "projects", newTab: false },
-  { label: "Contact", link: "/contact", icon: "contact", newTab: false },
+  { label: "Contact Me", link: "/contact", icon: "mails", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://www.github.com/satrio7Cloud",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/satrio-utomo-4104b1217",
     icon: "linkedin",
     newTab: true,
   },
-  {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
-    newTab: true,
-  },
+  // {
+  //   label: "X",
+  //   link: "https://www.x.com/code_bucks",
+  //   icon: "twitter",
+  //   newTab: true,
+  // },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/resumeSatrio.pdf",
     icon: "resume",
     newTab: true,
   },
+  {
+    label: "WhatsApp",
+    link: "https://wa.me/6285156419062",
+    icon: "whatsapp",
+    newTab: true,
+  },
 ];
-
-
