@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js Creative Portfolio Tutorial: Build Amazing Portfolio Website with Next.js, Three.js, and Tailwind CSS 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
@@ -97,3 +98,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+=======
+# the-forest-wizard
+im build profile with themes the forest wizard
+>>>>>>> 5de9ce7ad19ecd7f6b1c40b33ed4e0e4608ae9b0
